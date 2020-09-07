@@ -5,9 +5,9 @@ We have
   movies have several actors, and 
   actors can be in several movies.
 
-Studios have a name and location
-Movies have a title, creation year, and genre
-Actors have a name and age
+* Studios have a name and location
+* Movies have a title, creation year, and genre
+* Actors have a name and age
 
 You will need to create all the migrations.
 
@@ -17,12 +17,14 @@ As a user,
 When I visit the studio index page
 I see a list of all of the movie studios
 And underneath each studio, I see the names of all of its movies.
+
 Story 2
 As a user,
 When I visit a movie's show page.
 I see the movie's title, creation year, and genre,
 and a list of all its actors from youngest to oldest.
 And I see the average age of all of the movie's actors
+
 Story 3
 As a user,
 When I visit a movie show page,
@@ -31,6 +33,7 @@ and when I fill in the form with an existing actor's name
 I am redirected back to that movie's show page
 And I see the actor's name listed
 (You do not have to test for a sad path, for example if the id is not an existing actor)
+
 Extension: 
 Story 4
 As a user,

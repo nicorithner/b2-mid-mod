@@ -1,0 +1,6 @@
+<% @studios.each do |studio|%>
+  <div id= <%="studio-#{studio.id}"%>>
+    <ul><%= studio.name %></ul>
+    <ul><%= studio.movies.each {|movie| movie.title} %></ul>
+  </div>
+<%end%>
