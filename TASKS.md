@@ -61,8 +61,8 @@ _______________________________________________________
 - [x] create spec/models and corresponding models
 
 ### Story 1
-- [] Done
-- [] Tests. Set up and Pass
+- [x] Done
+- [x] Tests. Set up and Pass
 
 As a user,
 When I visit the studio index page
@@ -71,8 +71,6 @@ And underneath each studio, I see the names of all of its movies.
 
 #### Tasks
 As a user,
-  - [] studio index page
-  - [] When I visit the studio index page I see a list of all of the movie studios
-  - [] And underneath each studio, I see the names of all of its movies.
-  - [] 
-  - [] 
+  - [x] studio index page
+  - [x] When I visit the studio index page I see a list of all of the movie studios
+  - [x] And underneath each studio, I see the names of all of its movies.
