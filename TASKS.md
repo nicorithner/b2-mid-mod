@@ -45,8 +45,8 @@ And I see a unique list of all of the actors this particular actor has worked wi
 
   - [x] Initial Set up
   - [x] Models tests and models
-  - [] Story 1
-  - [] Story 2
+  - [x] Story 1
+  - [x] Story 2
   - [] Story 3
   - [] Extension - Story 4
 
@@ -77,8 +77,8 @@ As a user,
 
 
 ### Story 2
-- [] Done
-- [] Tests. Set up and Pass
+- [x] Done
+- [x] Tests. Set up and Pass
 
 As a user,
 When I visit a movie's show page.
@@ -91,5 +91,5 @@ As a user,
   - [x] movie show page
   - [] When I visit the movie show page I see 
     - [x] movie's title, creation year, and genre,
-    - [] a list of all its actors from youngest to oldest.
-    - [] I see the average age of all of the movie's actors
+    - [x] a list of all its actors from youngest to oldest.
+    - [x] I see the average age of all of the movie's actors
