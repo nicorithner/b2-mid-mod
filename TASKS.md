@@ -74,3 +74,22 @@ As a user,
   - [x] studio index page
   - [x] When I visit the studio index page I see a list of all of the movie studios
   - [x] And underneath each studio, I see the names of all of its movies.
+
+
+### Story 2
+- [] Done
+- [] Tests. Set up and Pass
+
+As a user,
+When I visit a movie's show page.
+I see the movie's title, creation year, and genre,
+and a list of all its actors from youngest to oldest.
+And I see the average age of all of the movie's actors
+
+#### Tasks
+As a user,
+  - [x] movie show page
+  - [] When I visit the movie show page I see 
+    - [x] movie's title, creation year, and genre,
+    - [] a list of all its actors from youngest to oldest.
+    - [] I see the average age of all of the movie's actors
