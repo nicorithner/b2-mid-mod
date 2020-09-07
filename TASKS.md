@@ -93,3 +93,22 @@ As a user,
     - [x] movie's title, creation year, and genre,
     - [x] a list of all its actors from youngest to oldest.
     - [x] I see the average age of all of the movie's actors
+
+### Story 3
+- [] Done
+- [] Tests. Set up and Pass
+
+As a user,
+When I visit a movie show page,
+I see a form for an actors name
+and when I fill in the form with an existing actor's name
+I am redirected back to that movie's show page
+And I see the actor's name listed
+(You do not have to test for a sad path, for example if the id is not an existing actor)
+
+#### Tasks
+As a user When I visit a movie show page,
+  - [] I see a form for an actors name
+  - [] when I fill in the form with an existing actor's name.
+  - [] I am redirected back to that movie's show page
+  - [] I see the actor's name listed
