@@ -10,7 +10,6 @@ RSpec.describe "the Studios index page" do
     @movie_2 = @studio_2.movies.create!(title: "Movie 2", creation_year: 2020, genre: "drama")
     @movie_3 = @studio_3.movies.create!(title: "Movie 3", creation_year: 2015, genre: "comedy")
 
-# binding.pry
     @actor_1 = Actor.create!(name: "actor 1", age: 30)
     @actor_2 = Actor.create!(name: "actor 2", age: 20)
     @actor_3 = Actor.create!(name: "actor 3", age: 25)

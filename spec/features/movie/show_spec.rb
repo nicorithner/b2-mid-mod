@@ -30,6 +30,7 @@ I see the movie details" do
       expect(page).to have_content(@movie_1.creation_year)
       expect(page).to have_content(@movie_1.genre)
       expect(page).to have_content("#{@actor_2.name} #{@actor_1.name}")
+      # save_and_open_page
     end
   end
 end
